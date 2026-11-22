@@ -1,0 +1,62 @@
+CANDIDATES
+==========
+
+[1] harbor — boats tied for the night (FRONT-RUNNER)
+The boats are tied for the night,
+each nodding at its own rope.
+The harbor keeps them the way a hand keeps a coin:
+loosely, enough to rise and fall.
+The water takes the last light and spreads it thin.
+No one is owed anything until morning.
+~237 code points. One unfolding image (harbor at dusk); "kept loosely"
+carries "held" without saying it; final line releases all obligations —
+nothing to prove. Open vowels: boats, rope, coin, loosely, water.
+
+[2] dog — sleeping in the last patch of sun
+The dog sleeps in the patch of sun by the door,
+paws slack, dreaming of somewhere far to smell.
+The hose drips into the bucket: one note, then the same note.
+Nothing here is late.
+Even the fence's shadow, reaching him, lies down.
+~223 code points. Warm, domestic; the shadow lying down is a fresh turn.
+Slightly closer to stock "sleeping pet" territory.
+
+[3] bread — loaf cooling on the rack
+The loaf came out of the oven an hour ago
+and is still deciding to be bread.
+Its crust ticks as it cools,
+like a house settling into its own skin.
+Nobody needs it yet.
+It gives the last of its heat to the room,
+and the room, without being asked, is warmer.
+~250 code points. "Still deciding to be bread" is fresh; ending leans
+a touch aphoristic.
+
+[4] rain — storm easing at evening
+Rain on the roof, but less now —
+the fat drops only, spaced out like slow clocks.
+Under the eave a sparrow waits, dry already,
+feathers back in order.
+The sky is the color of a towel wrung out.
+The wet street shines the last light back up,
+and the houses sit in it, done.
+~260 code points. "Towel wrung out" sky is good; two images (sparrow,
+street) dilute the single-image focus.
+
+[5] dusk — light climbing the west wall
+Evening comes in without knocking
+and lies along the west wall,
+climbing a hand's width each minute.
+The dust in the light doesn't hurry.
+Across the street, one window holds its square of gold,
+then gives it back.
+The room goes blue.
+Nothing ends. It only gets softer.
+~265 code points. Gentle but a little mannered; "without knocking"
+is near-stock.
+
+DECISION: [1] harbor. Strongest: freshest central image (harbor keeps
+them the way a hand keeps a coin — loosely), single place held for the
+whole span, short declarative beats between long open lines, and the
+last line ("No one is owed anything until morning") keeps working after
+the file ends — relief shown, never instructed.
