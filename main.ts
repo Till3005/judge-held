@@ -6,7 +6,7 @@ each nodding at its own rope.
 The harbor keeps them the way a hand keeps a coin:
 loosely, enough to rise and fall.
 The water takes the last light and spreads it thin.
-No one is owed anything until morning.
+Nothing is asked of them until morning.
 `;
 
 const outDir = process.env.MAKEFUN_OUTPUT_DIR || "out";
